@@ -3,6 +3,7 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
+
 using namespace std;
 
 double normal_dist(double m, double sd, double x)
